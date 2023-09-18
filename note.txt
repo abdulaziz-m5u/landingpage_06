@@ -1,0 +1,67 @@
+### colors
+
+- primary color = #00CC8F
+- secondary color = #54595F
+- text color = #F1F2F3
+- accent color = #9FA1AD
+- bg-color = #21232C
+- bg-color-alt = #2B2E3B
+
+### font family
+
+- Poppins
+
+### navbar section
+- Home
+- About
+- Services 
+- Projects
+- Contact
+
+### hero section
+- Hello, I'm
+- John Doe
+- Fronten-end Developer
+- With knowledge in web development and design, I offer the best projects resulting in quality work.
+- Let's Talk
+
+### about section
+- My Intro
+- About Me
+- Frontend developer, I create web pages with UI / UX user interface, I have years of experience and many clients are happy with the projects carried out.
+- Contact Me
+
+### skills section
+- Favorite Skills
+- My Skills
+- See fully what skills I have and perform, to develop the projects for you.
+- See Projects
+- HTML & JAVASCRIPT / Javascript / React / Bootstrap / Git & Github / Figma / Sketch
+
+### services section
+- My Services
+- What I Do
+* 
+- UI/UX Designer
+- I offer design of web interfaces and mobile applications, design made in figma, adobe xd and sketch.
+*
+- Web Developer
+- Development of custom web pages.Using current technologies and libraries of the labor field.
+* 
+- Graphic Design
+- I make designs at the client’s request, banner design, posters, digital designs among others.
+
+
+### jobs section
+- My Jobs
+- Recent Projects
+- UI/UX DESIGN / App Design / Web Design / Travel Website / Real Estate Website / Landing Page
+
+### cta section
+- Interested to Work With Me ?
+- Contact Me
+
+### footer section
+- John Doe
+- Frontend Developer
+- © Copyright ypcode. All rights reserved
